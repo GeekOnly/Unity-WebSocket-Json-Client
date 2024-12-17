@@ -1,4 +1,4 @@
-# WebSocket Client for Unity
+# WebSocket Client for Unity x GPT
 
 This project demonstrates how to implement a WebSocket client in Unity that communicates with a server, sending platform updates based on user input and receiving platform state updates from the server.
 ![image](https://github.com/user-attachments/assets/5f8477e9-5765-40c0-a815-12a3b7efa62f)
